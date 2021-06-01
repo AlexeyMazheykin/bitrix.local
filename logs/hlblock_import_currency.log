@@ -1,0 +1,11 @@
+2021-05-20 01:48:16 : Import started
+2021-05-20 01:48:16 : Created 'hl_was_shop_currency' with id 3
+2021-05-20 01:48:16 : User field 'UF_XML_ID' added.
+2021-05-20 01:48:16 : User field 'UF_SORT' added.
+2021-05-20 01:48:16 : User field 'UF_NAME' added.
+2021-05-20 01:48:16 : User field 'UF_CURRENCY' added.
+2021-05-20 01:48:16 : User field 'UF_AMOUNT_CNT' added.
+2021-05-20 01:48:16 : User field 'UF_AMOUNT' added.
+2021-05-20 01:48:16 : User field 'UF_FORMAT' added.
+2021-05-20 01:48:16 : User field 'UF_BASE' added.
+2021-05-20 01:48:16 : Import finished

@@ -1,0 +1,43 @@
+2021-05-20 01:48:21 : Import started
+2021-05-20 01:48:21 : Created iblock 'catalog' with id 3
+2021-05-20 01:48:22 : Property 'ARTNUM' added.
+2021-05-20 01:48:22 : Property 'QUANTITY' added.
+2021-05-20 01:48:22 : Property 'TAX' added.
+2021-05-20 01:48:22 : Property 'PRICE' added.
+2021-05-20 01:48:22 : Property 'PRICE_OLD' added.
+2021-05-20 01:48:22 : Property 'STATUS' added.
+2021-05-20 01:48:22 : Property 'SHOW_ON_MAIN' added.
+2021-05-20 01:48:22 : Property 'MEASURE' added.
+2021-05-20 01:48:22 : Property 'MEASURE_RATIO' added.
+2021-05-20 01:48:22 : Property 'SPECIAL' added.
+2021-05-20 01:48:22 : Property 'MORE_PHOTO' added.
+2021-05-20 01:48:22 : Property 'MORE_FILES' added.
+2021-05-20 01:48:22 : Property 'RELATED_ITEMS' added.
+2021-05-20 01:48:22 : Property 'DEMO_BRAND' added.
+2021-05-20 01:48:22 : Property 'DEMO_WARRANTY' added.
+2021-05-20 01:48:22 : Property 'DEMO_COUNTRY' added.
+2021-05-20 01:48:22 : Property 'DEMO_TYPE' added.
+2021-05-20 01:48:22 : Property 'DEMO_COLOR' added.
+2021-05-20 01:48:22 : Property 'DEMO_SIZE' added.
+2021-05-20 01:48:22 : Property 'DEMO_POWER' added.
+2021-05-20 01:48:22 : Property 'DEMO_MATERIAL' added.
+2021-05-20 01:48:22 : Property 'DEMO_AUDIOFORMAT' added.
+2021-05-20 01:48:22 : Property 'DEMO_RADIOTUNER' added.
+2021-05-20 01:48:22 : Property 'DEMO_CDDISC' added.
+2021-05-20 01:48:22 : Property 'DEMO_ROMMEMORY' added.
+2021-05-20 01:48:22 : Property 'DEMO_EXTERNALMEMORY' added.
+2021-05-20 01:48:22 : Property 'DEMO_NFC' added.
+2021-05-20 01:48:22 : Property 'DEMO_BLUETOOTH' added.
+2021-05-20 01:48:22 : Property 'DEMO_DISPLAY' added.
+2021-05-20 01:48:22 : Property 'DEMO_RECIPESBOOK' added.
+2021-05-20 01:48:22 : Property 'DEMO_DELAYEDSTART' added.
+2021-05-20 01:48:22 : Property 'DEMO_CORE' added.
+2021-05-20 01:48:22 : Property 'DEMO_HDD' added.
+2021-05-20 01:48:22 : Property 'DEMO_WEIGHT' added.
+2021-05-20 01:48:22 : Property 'DEMO_PLATFORM' added.
+2021-05-20 01:48:22 : Property 'DEMO_BITRIX' added.
+2021-05-20 01:48:22 : User field 'UF_ARTICLES' added.
+2021-05-20 01:48:22 : Element settings added.
+2021-05-20 01:48:22 : Section settings added.
+2021-05-20 01:48:22 : List settings added.
+2021-05-20 01:48:22 : Import finished

@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+  Array(
+    "О компании", 
+    "/whatasoft/info/", 
+    Array(), 
+    Array(), 
+    "" 
+  ),
+  Array(
+    "Новости", 
+    "/whatasoft/info/news/", 
+    Array(), 
+    Array(), 
+    "" 
+  ),
+  Array(
+    "Сертификаты", 
+    "/whatasoft/info/certificates/", 
+    Array(), 
+    Array(), 
+    "" 
+  ),
+  Array(
+    "Примеры стилей", 
+    "/whatasoft/info/text-styles/", 
+    Array(), 
+    Array(), 
+    "" 
+  ),
+  Array(
+    "Партнеры", 
+    "/whatasoft/info/partners/", 
+    Array(), 
+    Array(), 
+    "" 
+  ),
+  Array(
+    "Вакансии", 
+    "/whatasoft/info/vacancies/", 
+    Array(), 
+    Array(), 
+    "" 
+  )
+);
+?>

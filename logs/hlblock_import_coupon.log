@@ -1,0 +1,12 @@
+2021-05-20 01:48:15 : Import started
+2021-05-20 01:48:15 : Created 'hl_was_shop_coupon' with id 2
+2021-05-20 01:48:15 : User field 'UF_XML_ID' added.
+2021-05-20 01:48:15 : User field 'UF_ACTIVE' added.
+2021-05-20 01:48:15 : User field 'UF_CODE' added.
+2021-05-20 01:48:16 : User field 'UF_DATE_FROM' added.
+2021-05-20 01:48:16 : User field 'UF_DATE_TO' added.
+2021-05-20 01:48:16 : User field 'UF_MULTIPLE' added.
+2021-05-20 01:48:16 : User field 'UF_DISCOUNT_TYPE' added.
+2021-05-20 01:48:16 : User field 'UF_DISCOUNT_VALUE' added.
+2021-05-20 01:48:16 : User field 'UF_DISCOUNT_FOR' added.
+2021-05-20 01:48:16 : Import finished

@@ -1,0 +1,750 @@
+2021-05-09 20:45:05 -  - exec CUpdateClientPartner::SearchModulesEx
+2021-05-09 20:45:05 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-09 20:45:05 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&search_module_id=&search_module=&search_category=7%2C14&search_type=&search_order=DESC&search_order_by=SORT&search_page=1&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-09 20:45:05 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-09 20:45:07 -  - TIME SearchModulesEx(request) 2.197 sec
+2021-05-09 20:45:07 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-09 20:45:42 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-09 20:45:42 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-09 20:45:42 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=nsandrey.emptyinstall&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-09 20:45:42 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-09 20:45:42 -  - TIME LoadModulesUpdates(request) 0.291 sec
+2021-05-09 20:45:42 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-09 20:45:42 - S - STEP
+2021-05-09 20:45:42 - LM4W01 - loadModule4Wizard-Step
+2021-05-09 20:45:43 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-09 20:45:43 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-09 20:45:43 -  - loadFile
+2021-05-09 20:45:43 - U - RETURN
+2021-05-09 20:45:43 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-09 20:45:43 -  - TIME UnGzipArchive 0.039 sec
+2021-05-09 20:45:43 -  - TIME UpdateStepModules 0.02 sec
+2021-05-09 20:45:43 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-09 20:45:43 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-09 20:45:43 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=nsandrey.emptyinstall&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-09 20:45:43 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-09 20:45:44 -  - TIME LoadModulesUpdates(request) 0.282 sec
+2021-05-09 20:45:44 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-09 20:45:44 - STEP - Finish - NOUPDATES
+2021-05-09 20:45:44 - LM4W03 - Finish - NOUPDATES
+2021-05-09 20:50:02 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-09 20:50:02 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-09 20:50:02 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-09 20:50:02 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-09 20:50:02 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-09 20:50:02 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-09 20:50:02 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-09 20:50:02 -  - TIME GetUpdatesList(request) 0.269 sec
+2021-05-09 20:50:02 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-09 20:50:02 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-09 20:50:02 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-09 20:50:03 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:27:34 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-20 01:27:34 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:27:34 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:27:34 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:27:35 -  - TIME GetUpdatesList(request) 0.385 sec
+2021-05-20 01:27:35 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:31:41 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-20 01:31:41 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:31:41 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall%2Cwhatasoft.shop&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:31:41 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:31:42 -  - TIME GetUpdatesList(request) 0.835 sec
+2021-05-20 01:31:42 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:31:56 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:31:56 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:31:57 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:31:57 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:31:57 -  - TIME LoadModulesUpdates(request) 0.28 sec
+2021-05-20 01:31:57 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:31:57 - S - STEP
+2021-05-20 01:31:57 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:31:57 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:31:57 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:31:57 -  - loadFile
+2021-05-20 01:32:13 - U - RETURN
+2021-05-20 01:32:13 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:32:14 -  - TIME UnGzipArchive 1.389 sec
+2021-05-20 01:32:15 -  - TIME UpdateStepModules 1.154 sec
+2021-05-20 01:32:15 - UPD_SUCCESS - Updated: whatasoft.shop
+2021-05-20 01:32:16 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-20 01:32:16 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:32:16 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:32:16 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:32:16 -  - TIME GetUpdatesList(request) 0.267 sec
+2021-05-20 01:32:16 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:32:16 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:32:16 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:32:16 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:32:16 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:32:16 -  - TIME LoadModulesUpdates(request) 0.267 sec
+2021-05-20 01:32:16 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:32:16 - S - STEP
+2021-05-20 01:32:16 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:35:46 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-20 01:35:46 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:35:46 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:35:46 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:35:47 -  - TIME GetUpdatesList(request) 0.265 sec
+2021-05-20 01:35:47 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:36:12 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-20 01:36:12 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:36:12 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:36:12 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:36:13 -  - TIME GetUpdatesList(request) 0.293 sec
+2021-05-20 01:36:13 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:36:25 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-20 01:36:25 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:36:25 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:36:25 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:36:25 -  - TIME GetUpdatesList(request) 0.284 sec
+2021-05-20 01:36:25 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:36:52 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-20 01:36:52 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:36:52 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:36:52 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:36:53 -  - TIME GetUpdatesList(request) 0.293 sec
+2021-05-20 01:36:53 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:05 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-20 01:39:05 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:39:05 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:39:05 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:39:05 -  - TIME GetUpdatesList(request) 0.313 sec
+2021-05-20 01:39:05 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:13 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-20 01:39:13 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:39:13 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall%2Cwhatasoft.shop&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:39:13 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:39:13 -  - TIME GetUpdatesList(request) 0.277 sec
+2021-05-20 01:39:13 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:17 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:39:17 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:39:17 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:39:17 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:39:18 -  - TIME LoadModulesUpdates(request) 0.284 sec
+2021-05-20 01:39:18 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:18 - S - STEP
+2021-05-20 01:39:18 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:39:18 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:39:18 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:18 -  - loadFile
+2021-05-20 01:39:18 - U - RETURN
+2021-05-20 01:39:18 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:39:18 -  - TIME UnGzipArchive 0.041 sec
+2021-05-20 01:39:18 - CSURUS1 - Run updater '/bitrix/updates/update_m1621463958/whatasoft.shop/updater1.0.1.php'
+2021-05-20 01:39:18 -  - TIME UpdateStepModules 0.049 sec
+2021-05-20 01:39:18 - UPD_SUCCESS - Updated: whatasoft.shop (1.0.1)<br><ul> <li>Правки слайдера.</li> <li>Правки акций.</li> <li>Правки верстки.</li> <li>Правки композитного режима.</li> </ul>
+2021-05-20 01:39:18 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:39:18 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:39:18 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.1%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:39:18 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:39:19 -  - TIME LoadModulesUpdates(request) 0.254 sec
+2021-05-20 01:39:19 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:19 - S - STEP
+2021-05-20 01:39:19 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:39:19 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:39:19 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:19 -  - loadFile
+2021-05-20 01:39:19 - U - RETURN
+2021-05-20 01:39:19 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:39:19 -  - TIME UnGzipArchive 0.003 sec
+2021-05-20 01:39:19 - CSURUS1 - Run updater '/bitrix/updates/update_m1621463959/whatasoft.shop/updater1.0.2.php'
+2021-05-20 01:39:19 -  - TIME UpdateStepModules 0.005 sec
+2021-05-20 01:39:19 - UPD_SUCCESS - Updated: whatasoft.shop (1.0.2)<br><ul> <li>Правки оплаты через Яндекс.Кассу.</li> </ul>
+2021-05-20 01:39:19 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:39:19 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:39:19 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:39:19 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:39:20 -  - TIME LoadModulesUpdates(request) 0.282 sec
+2021-05-20 01:39:20 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:20 - S - STEP
+2021-05-20 01:39:20 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:39:20 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:39:20 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:20 -  - loadFile
+2021-05-20 01:39:20 - U - RETURN
+2021-05-20 01:39:20 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:39:20 -  - TIME UnGzipArchive 0.08 sec
+2021-05-20 01:39:20 - CSURUS1 - Run updater '/bitrix/updates/update_m1621463960/whatasoft.shop/updater1.0.3.php'
+2021-05-20 01:39:20 -  - TIME UpdateStepModules 0.049 sec
+2021-05-20 01:39:20 - UPD_SUCCESS - Updated: whatasoft.shop (1.0.3)<br><ul> <li>Добавлено использование цен магазина при наличии модуля \"catalog\".</li> <li>Добавлена поддержка ФЗ-152 для версий битрикса старше 17.0.</li> <li>При сохранении пользовательских соглашений(ФЗ-152) добавлена привязка к формам.</li> </ul>
+2021-05-20 01:39:21 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:39:21 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:39:21 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.3%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:39:21 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:39:21 -  - TIME LoadModulesUpdates(request) 0.263 sec
+2021-05-20 01:39:21 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:21 - S - STEP
+2021-05-20 01:39:21 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:39:21 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:39:21 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:21 -  - loadFile
+2021-05-20 01:39:35 - U - RETURN
+2021-05-20 01:39:35 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:39:36 -  - TIME UnGzipArchive 1.034 sec
+2021-05-20 01:39:36 - CSURUS1 - Run updater '/bitrix/updates/update_m1621463975/whatasoft.shop/updater2.0.0.php'
+2021-05-20 01:39:36 -  - TIME UpdateStepModules 0.691 sec
+2021-05-20 01:39:36 - UPD_SUCCESS - Updated: whatasoft.shop (2.0.0)<br><ul> <li>Добавлена адаптивая верстка.</li> <li>Правки для ФЗ-54.</li> <li>Добавлена настройка для переключения цветовых тем.</li> <li>Добавлена настройка для вида списка в каталоге.</li> <li>Добавлена настройка для выбора типа цены (при наличии модуля магазина).</li> <li>Добавлен вывод статуса товара в зависимости от его кол-ва.</li> </ul>
+2021-05-20 01:39:37 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:39:37 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:39:37 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.0.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:39:37 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:39:37 -  - TIME LoadModulesUpdates(request) 0.268 sec
+2021-05-20 01:39:37 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:37 - S - STEP
+2021-05-20 01:39:37 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:39:37 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:39:37 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:37 -  - loadFile
+2021-05-20 01:39:54 - U - RETURN
+2021-05-20 01:39:54 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:39:55 -  - TIME UnGzipArchive 1.515 sec
+2021-05-20 01:39:55 - CSURUS1 - Run updater '/bitrix/updates/update_m1621463994/whatasoft.shop/updater2.1.0.php'
+2021-05-20 01:39:57 -  - TIME UpdateStepModules 1.156 sec
+2021-05-20 01:39:57 - UPD_SUCCESS - Updated: whatasoft.shop (2.1.0)<br><ul> <li>Добавлена возможность создания лидов в CRM Битрикс24 из обращений через формы сайта.</li> <li>Добавлены новые настройки шаблона.</li> <li>Добавлены баннеры для главной страницы.</li> <li>Добавлен вывод акций на главной странице.</li> <li>Добавлен раздел «Статьи», с возможностью привязки статей к разделам каталога.</li> <li>Добавлена возможность вывода видео в слайдере.</li> <li>Изменено меню дочерних страниц.</li> <li>Переработан поисковой механизм.</li> <li>Добавлен поиск с подсказками.</li> <li>Добавлены полезные элементы навигации: фиксированное меню и кнопка «Наверх».</li> <li>Другие небольшие улучшения.</li> <li>Стилистические обновления шаблона.</li> <li>Обновлены демо-данные решения.</li> </ul> <p><b>Внимание!</b> Перед обновлением необходимо сделать резервную копию сайта.<br> После установки обновления необходимо запустить мастер настройки.<br> После обновления необходимо очистить все файлы кеша.</p>
+2021-05-20 01:39:57 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:39:57 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:39:57 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.1.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:39:57 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:39:57 -  - TIME LoadModulesUpdates(request) 0.301 sec
+2021-05-20 01:39:57 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:57 - S - STEP
+2021-05-20 01:39:57 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:39:57 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:39:57 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:57 -  - loadFile
+2021-05-20 01:39:58 - U - RETURN
+2021-05-20 01:39:58 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:39:58 -  - TIME UnGzipArchive 0.039 sec
+2021-05-20 01:39:58 - CSURUS1 - Run updater '/bitrix/updates/update_m1621463998/whatasoft.shop/updater2.1.1.php'
+2021-05-20 01:39:58 -  - TIME UpdateStepModules 0.028 sec
+2021-05-20 01:39:58 - UPD_SUCCESS - Updated: whatasoft.shop (2.1.1)<br><ul> <li>Заказы создаются в модуле Интернет-магазин при его наличии в редакции</li> </ul> <p><b>Внимание!</b> Перед обновлением необходимо сделать резервную копию сайта.<br> После установки обновления необходимо запустить мастер настройки.<br> После обновления необходимо очистить все файлы кеша.</p>
+2021-05-20 01:39:58 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:39:58 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:39:58 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.1.1%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:39:58 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:39:58 -  - TIME LoadModulesUpdates(request) 0.263 sec
+2021-05-20 01:39:58 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:58 - S - STEP
+2021-05-20 01:39:58 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:39:59 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:39:59 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:39:59 -  - loadFile
+2021-05-20 01:40:02 - U - RETURN
+2021-05-20 01:40:02 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:40:02 -  - TIME UnGzipArchive 0.337 sec
+2021-05-20 01:40:02 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464002/whatasoft.shop/updater2.1.2.php'
+2021-05-20 01:40:02 -  - TIME UpdateStepModules 0.221 sec
+2021-05-20 01:40:02 - UPD_SUCCESS - Updated: whatasoft.shop (2.1.2)<br><ul> <li>Добавлен инструмент для повышения конверсий — посадочные страницы. Увеличивайте продажи по каналу контекстной рекламы</li> </ul> <p><b>Внимание!</b> Перед обновлением необходимо сделать резервную копию сайта.<br> После установки обновления необходимо запустить мастер настройки.<br> После обновления необходимо очистить все файлы кеша.</p>
+2021-05-20 01:40:03 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:03 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:40:03 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.1.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:40:03 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:40:03 -  - TIME LoadModulesUpdates(request) 0.265 sec
+2021-05-20 01:40:03 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:03 - S - STEP
+2021-05-20 01:40:03 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:40:03 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:03 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:03 -  - loadFile
+2021-05-20 01:40:04 - U - RETURN
+2021-05-20 01:40:04 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:40:04 -  - TIME UnGzipArchive 0.097 sec
+2021-05-20 01:40:04 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464004/whatasoft.shop/updater2.2.0.php'
+2021-05-20 01:40:04 -  - TIME UpdateStepModules 0.083 sec
+2021-05-20 01:40:04 - UPD_SUCCESS - Updated: whatasoft.shop (2.2.0)<br><ul> <li>Добавлен функционал личного кабинета покупателя</li> <li>Добавлен широкий баннер для главной страницы и дополнительный вид блока статей, новостей</li> <li>Другие небольшие улучшения и исправления</li> </ul> <p><b>Внимание!</b> Перед обновлением необходимо сделать резервную копию сайта.<br> После установки обновления необходимо запустить мастер настройки.<br> После обновления необходимо очистить все файлы кеша.</p>
+2021-05-20 01:40:04 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:04 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:40:04 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.2.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:40:04 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:40:04 -  - TIME LoadModulesUpdates(request) 0.283 sec
+2021-05-20 01:40:04 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:04 - S - STEP
+2021-05-20 01:40:04 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:40:05 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:05 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:05 -  - loadFile
+2021-05-20 01:40:05 - U - RETURN
+2021-05-20 01:40:05 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:40:05 -  - TIME UnGzipArchive 0.113 sec
+2021-05-20 01:40:05 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464005/whatasoft.shop/updater2.2.1.php'
+2021-05-20 01:40:05 -  - TIME UpdateStepModules 0.105 sec
+2021-05-20 01:40:05 - UPD_SUCCESS - Updated: whatasoft.shop (2.2.1)<br><ul> <li>Поправлен компонент заказа для PHP 7</li> <li>Переделаны формы под ajax</li> <li>Исправлен вывод captcha</li> <li>Добавлены настройки для задания произвольных цветов темы</li> </ul> <p><b>Внимание!</b> Перед обновлением необходимо сделать резервную копию сайта.<br> После установки обновления необходимо запустить мастер настройки.<br> После обновления необходимо очистить все файлы кеша.</p>
+2021-05-20 01:40:06 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:06 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:40:06 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.2.1%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:40:06 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:40:06 -  - TIME LoadModulesUpdates(request) 0.254 sec
+2021-05-20 01:40:06 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:06 - S - STEP
+2021-05-20 01:40:06 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:40:06 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:06 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:06 -  - loadFile
+2021-05-20 01:40:06 - U - RETURN
+2021-05-20 01:40:06 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:40:06 -  - TIME UnGzipArchive 0.049 sec
+2021-05-20 01:40:06 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464006/whatasoft.shop/updater2.2.2.php'
+2021-05-20 01:40:06 -  - TIME UpdateStepModules 0.024 sec
+2021-05-20 01:40:06 - UPD_SUCCESS - Updated: whatasoft.shop (2.2.2)<br><ul> <li>Правки визарда</li> </ul>
+2021-05-20 01:40:07 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:07 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:40:07 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.2.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:40:07 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:40:07 -  - TIME LoadModulesUpdates(request) 0.27 sec
+2021-05-20 01:40:07 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:07 - S - STEP
+2021-05-20 01:40:07 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:40:07 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:07 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:07 -  - loadFile
+2021-05-20 01:40:08 - U - RETURN
+2021-05-20 01:40:08 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:40:08 -  - TIME UnGzipArchive 0.1 sec
+2021-05-20 01:40:08 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464008/whatasoft.shop/updater2.2.3.php'
+2021-05-20 01:40:08 -  - TIME UpdateStepModules 0.07 sec
+2021-05-20 01:40:08 - UPD_SUCCESS - Updated: whatasoft.shop (2.2.3)<br><ul> <li>Яндекс.Касса - поддержка формата API 3.</li> <li>Яндекс.Касса - поддержка ФФД 1.05.</li> <li>Справочник способов оплат для управления выводимыми способами оплат.</li> </ul> <p>Внимание! После обновления необходимо в разделе \"Контент\" > \"Highload-блоки\" > \"Способы оплаты\" (для редакций \"Старт\", \"Стандарт\") или в разделе \"Магазин\" > \"Настройки\" > \"Платежные системы\" (для редакций \"Малый бизнес\", \"Бизнес\") активировать использующиеся способы оплаты (если на сайте уже использовалась оплата через \"Яндекс.Кассу\", то нужно активировать способ оплаты с обработчиком \"Я.Касса (старый формат)\" или \"Яндекс.Касса (до версии 3.х)\").</p>
+2021-05-20 01:40:08 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:08 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:40:08 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.2.3%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:40:08 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:40:08 -  - TIME LoadModulesUpdates(request) 0.254 sec
+2021-05-20 01:40:08 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:08 - S - STEP
+2021-05-20 01:40:08 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:40:08 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:08 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:08 -  - loadFile
+2021-05-20 01:40:26 - U - RETURN
+2021-05-20 01:40:26 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:40:28 -  - TIME UnGzipArchive 1.533 sec
+2021-05-20 01:40:28 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464026/whatasoft.shop/updater2.2.4.php'
+2021-05-20 01:40:29 -  - TIME UpdateStepModules 1.348 sec
+2021-05-20 01:40:29 - UPD_SUCCESS - Updated: whatasoft.shop (2.2.4)<br><ul> <li>Техническое обновление</li> </ul>
+2021-05-20 01:40:30 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:30 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:40:30 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.2.4%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:40:30 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:40:30 -  - TIME LoadModulesUpdates(request) 0.285 sec
+2021-05-20 01:40:30 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:30 - S - STEP
+2021-05-20 01:40:30 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:40:30 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:30 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:30 -  - loadFile
+2021-05-20 01:40:32 - U - RETURN
+2021-05-20 01:40:32 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:40:32 -  - TIME UnGzipArchive 0.25 sec
+2021-05-20 01:40:32 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464032/whatasoft.shop/updater2.3.0.php'
+2021-05-20 01:40:32 -  - TIME UpdateStepModules 0.258 sec
+2021-05-20 01:40:32 - UPD_SUCCESS - Updated: whatasoft.shop (2.3.0)<br><ul> <li>Добавлен функционал сравнения товаров</li> <li>Добавлен раздел избранных товаров</li> <li>Добавлен функционал промокодов для корзины</li> <li>Обновлена карточка товара, добавлен новый вид карточки, добавлена форма \"Нашли дешевле\"</li> <li>Добавлен блок ранее просмотренных товаров</li> <li>Добавлен третий вид вывода списка товаров и выбор количества элементов на странице</li> <li>Обновлён раздел акций, добавлен счётчик времени до конца акции, акционные товары</li> <li>Добавлена возможность \"поделиться\" на страницах товаров, акций, новостей и т.д.</li> <li>Добавлена настройка кратности покупки товара и возможность указания единиц измерения товаров</li> <li>Другие небольшие, но приятные улучшения и исправления</li> </ul> <p><b>Внимание!</b> Перед обновлением необходимо сделать резервную копию сайта.<br> После установки обновления необходимо запустить мастер настройки.<br> После обновления необходимо очистить все файлы кеша.<br> После обновления при возникновении ситуации дублирования меню раздела необходимо в корневой директории сайта или соответствующего раздела удалить файл sect_sidebar.php, либо сделать его пустым (для многосайтовости). В меню личного кабинета необходимо вручную добавить раздел \"Избранные товары\" (favorite)</p>
+2021-05-20 01:40:32 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:32 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:40:32 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:40:32 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:40:33 -  - TIME LoadModulesUpdates(request) 0.274 sec
+2021-05-20 01:40:33 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:33 - S - STEP
+2021-05-20 01:40:33 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:40:33 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:33 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:33 -  - loadFile
+2021-05-20 01:40:33 - U - RETURN
+2021-05-20 01:40:33 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:40:33 -  - TIME UnGzipArchive 0.005 sec
+2021-05-20 01:40:33 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464033/whatasoft.shop/updater2.3.1.php'
+2021-05-20 01:40:33 -  - TIME UpdateStepModules 0.007 sec
+2021-05-20 01:40:33 - UPD_SUCCESS - Updated: whatasoft.shop (2.3.1)<br><ul> <li>Исправлено создание заказа для версий с \"Малый бизнес\" и \"Бизнес\"</li> </ul>
+2021-05-20 01:40:33 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:33 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:40:33 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.1%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:40:33 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:40:34 -  - TIME LoadModulesUpdates(request) 0.245 sec
+2021-05-20 01:40:34 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:34 - S - STEP
+2021-05-20 01:40:34 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:40:34 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:34 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:34 -  - loadFile
+2021-05-20 01:40:34 - U - RETURN
+2021-05-20 01:40:34 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:40:34 -  - TIME UnGzipArchive 0.019 sec
+2021-05-20 01:40:34 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464034/whatasoft.shop/updater2.3.2.php'
+2021-05-20 01:40:34 -  - TIME UpdateStepModules 0.022 sec
+2021-05-20 01:40:34 - UPD_SUCCESS - Updated: whatasoft.shop (2.3.2)<br><ul> <li>Исправлено кеширование</li> <li>Поправлен js для IE 11</li> </ul>
+2021-05-20 01:40:34 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:40:34 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:40:34 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:40:34 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:40:35 -  - TIME LoadModulesUpdates(request) 0.306 sec
+2021-05-20 01:40:35 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:40:35 - STEP - Finish - NOUPDATES
+2021-05-20 01:40:35 - STEP - Finish - NOUPDATES
+2021-05-20 01:41:02 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-20 01:41:02 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:41:02 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:41:02 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:41:14 -  - TIME GetUpdatesList(request) 12.035 sec
+2021-05-20 01:41:14 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:42:18 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-20 01:42:18 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:42:18 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:42:18 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:42:19 -  - TIME GetUpdatesList(request) 0.266 sec
+2021-05-20 01:42:19 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:42:26 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-20 01:42:26 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:42:26 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:42:26 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:42:26 -  - TIME GetUpdatesList(request) 0.262 sec
+2021-05-20 01:42:26 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:42:27 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-20 01:42:27 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:42:27 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:42:27 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:42:27 -  - TIME GetUpdatesList(request) 0.28 sec
+2021-05-20 01:42:27 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:45:26 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-20 01:45:26 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:45:26 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall%2Cwhatasoft.shop&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:45:26 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:45:26 -  - TIME GetUpdatesList(request) 0.338 sec
+2021-05-20 01:45:26 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:45:35 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:45:35 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:45:35 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:45:35 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:45:35 -  - TIME LoadModulesUpdates(request) 0.277 sec
+2021-05-20 01:45:35 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:45:35 - S - STEP
+2021-05-20 01:45:35 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:45:35 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:45:35 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:45:35 -  - loadFile
+2021-05-20 01:45:49 - U - RETURN
+2021-05-20 01:45:49 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:45:50 -  - TIME UnGzipArchive 1.513 sec
+2021-05-20 01:45:52 -  - TIME UpdateStepModules 1.11 sec
+2021-05-20 01:45:52 - UPD_SUCCESS - Updated: whatasoft.shop
+2021-05-20 01:45:52 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:45:52 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:45:52 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:45:52 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:45:52 -  - TIME LoadModulesUpdates(request) 0.269 sec
+2021-05-20 01:45:52 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:45:52 - S - STEP
+2021-05-20 01:45:52 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:45:53 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:45:53 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:45:53 -  - loadFile
+2021-05-20 01:45:53 - U - RETURN
+2021-05-20 01:45:53 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:45:53 -  - TIME UnGzipArchive 0.041 sec
+2021-05-20 01:45:53 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464353/whatasoft.shop/updater1.0.1.php'
+2021-05-20 01:45:53 -  - TIME UpdateStepModules 0.039 sec
+2021-05-20 01:45:53 - UPD_SUCCESS - Updated: whatasoft.shop (1.0.1)<br><ul> <li>Правки слайдера.</li> <li>Правки акций.</li> <li>Правки верстки.</li> <li>Правки композитного режима.</li> </ul>
+2021-05-20 01:45:53 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:45:53 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:45:53 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.1%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:45:53 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:45:53 -  - TIME LoadModulesUpdates(request) 0.25 sec
+2021-05-20 01:45:53 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:45:53 - S - STEP
+2021-05-20 01:45:53 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:45:54 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:45:54 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:45:54 -  - loadFile
+2021-05-20 01:45:54 - U - RETURN
+2021-05-20 01:45:54 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:45:54 -  - TIME UnGzipArchive 0.004 sec
+2021-05-20 01:45:54 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464354/whatasoft.shop/updater1.0.2.php'
+2021-05-20 01:45:54 -  - TIME UpdateStepModules 0.005 sec
+2021-05-20 01:45:54 - UPD_SUCCESS - Updated: whatasoft.shop (1.0.2)<br><ul> <li>Правки оплаты через Яндекс.Кассу.</li> </ul>
+2021-05-20 01:45:54 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:45:54 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:45:54 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:45:54 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:45:54 -  - TIME LoadModulesUpdates(request) 0.269 sec
+2021-05-20 01:45:54 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:45:54 - S - STEP
+2021-05-20 01:45:54 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:45:55 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:45:55 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:45:55 -  - loadFile
+2021-05-20 01:45:55 - U - RETURN
+2021-05-20 01:45:55 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:45:55 -  - TIME UnGzipArchive 0.078 sec
+2021-05-20 01:45:55 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464355/whatasoft.shop/updater1.0.3.php'
+2021-05-20 01:45:55 -  - TIME UpdateStepModules 0.046 sec
+2021-05-20 01:45:55 - UPD_SUCCESS - Updated: whatasoft.shop (1.0.3)<br><ul> <li>Добавлено использование цен магазина при наличии модуля \"catalog\".</li> <li>Добавлена поддержка ФЗ-152 для версий битрикса старше 17.0.</li> <li>При сохранении пользовательских соглашений(ФЗ-152) добавлена привязка к формам.</li> </ul>
+2021-05-20 01:45:55 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:45:55 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:45:55 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C1.0.3%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:45:55 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:45:56 -  - TIME LoadModulesUpdates(request) 0.258 sec
+2021-05-20 01:45:56 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:45:56 - S - STEP
+2021-05-20 01:45:56 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:45:56 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:45:56 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:45:56 -  - loadFile
+2021-05-20 01:46:08 - U - RETURN
+2021-05-20 01:46:08 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:46:09 -  - TIME UnGzipArchive 1.057 sec
+2021-05-20 01:46:09 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464368/whatasoft.shop/updater2.0.0.php'
+2021-05-20 01:46:09 -  - TIME UpdateStepModules 0.679 sec
+2021-05-20 01:46:09 - UPD_SUCCESS - Updated: whatasoft.shop (2.0.0)<br><ul> <li>Добавлена адаптивая верстка.</li> <li>Правки для ФЗ-54.</li> <li>Добавлена настройка для переключения цветовых тем.</li> <li>Добавлена настройка для вида списка в каталоге.</li> <li>Добавлена настройка для выбора типа цены (при наличии модуля магазина).</li> <li>Добавлен вывод статуса товара в зависимости от его кол-ва.</li> </ul>
+2021-05-20 01:46:10 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:10 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:46:10 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.0.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:46:10 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:46:11 -  - TIME LoadModulesUpdates(request) 0.238 sec
+2021-05-20 01:46:11 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:11 - S - STEP
+2021-05-20 01:46:11 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:46:11 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:11 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:11 -  - loadFile
+2021-05-20 01:46:28 - U - RETURN
+2021-05-20 01:46:28 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:46:29 -  - TIME UnGzipArchive 1.627 sec
+2021-05-20 01:46:29 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464388/whatasoft.shop/updater2.1.0.php'
+2021-05-20 01:46:31 -  - TIME UpdateStepModules 1.099 sec
+2021-05-20 01:46:31 - UPD_SUCCESS - Updated: whatasoft.shop (2.1.0)<br><ul> <li>Добавлена возможность создания лидов в CRM Битрикс24 из обращений через формы сайта.</li> <li>Добавлены новые настройки шаблона.</li> <li>Добавлены баннеры для главной страницы.</li> <li>Добавлен вывод акций на главной странице.</li> <li>Добавлен раздел «Статьи», с возможностью привязки статей к разделам каталога.</li> <li>Добавлена возможность вывода видео в слайдере.</li> <li>Изменено меню дочерних страниц.</li> <li>Переработан поисковой механизм.</li> <li>Добавлен поиск с подсказками.</li> <li>Добавлены полезные элементы навигации: фиксированное меню и кнопка «Наверх».</li> <li>Другие небольшие улучшения.</li> <li>Стилистические обновления шаблона.</li> <li>Обновлены демо-данные решения.</li> </ul> <p><b>Внимание!</b> Перед обновлением необходимо сделать резервную копию сайта.<br> После установки обновления необходимо запустить мастер настройки.<br> После обновления необходимо очистить все файлы кеша.</p>
+2021-05-20 01:46:31 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:31 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:46:31 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.1.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:46:31 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:46:31 -  - TIME LoadModulesUpdates(request) 0.284 sec
+2021-05-20 01:46:31 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:31 - S - STEP
+2021-05-20 01:46:31 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:46:31 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:31 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:31 -  - loadFile
+2021-05-20 01:46:32 - U - RETURN
+2021-05-20 01:46:32 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:46:32 -  - TIME UnGzipArchive 0.042 sec
+2021-05-20 01:46:32 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464392/whatasoft.shop/updater2.1.1.php'
+2021-05-20 01:46:32 -  - TIME UpdateStepModules 0.028 sec
+2021-05-20 01:46:32 - UPD_SUCCESS - Updated: whatasoft.shop (2.1.1)<br><ul> <li>Заказы создаются в модуле Интернет-магазин при его наличии в редакции</li> </ul> <p><b>Внимание!</b> Перед обновлением необходимо сделать резервную копию сайта.<br> После установки обновления необходимо запустить мастер настройки.<br> После обновления необходимо очистить все файлы кеша.</p>
+2021-05-20 01:46:32 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:32 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:46:32 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.1.1%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:46:32 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:46:32 -  - TIME LoadModulesUpdates(request) 0.262 sec
+2021-05-20 01:46:32 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:32 - S - STEP
+2021-05-20 01:46:32 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:46:33 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:33 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:33 -  - loadFile
+2021-05-20 01:46:36 - U - RETURN
+2021-05-20 01:46:36 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:46:36 -  - TIME UnGzipArchive 0.296 sec
+2021-05-20 01:46:36 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464396/whatasoft.shop/updater2.1.2.php'
+2021-05-20 01:46:36 -  - TIME UpdateStepModules 0.214 sec
+2021-05-20 01:46:36 - UPD_SUCCESS - Updated: whatasoft.shop (2.1.2)<br><ul> <li>Добавлен инструмент для повышения конверсий — посадочные страницы. Увеличивайте продажи по каналу контекстной рекламы</li> </ul> <p><b>Внимание!</b> Перед обновлением необходимо сделать резервную копию сайта.<br> После установки обновления необходимо запустить мастер настройки.<br> После обновления необходимо очистить все файлы кеша.</p>
+2021-05-20 01:46:37 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:37 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:46:37 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.1.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:46:37 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:46:37 -  - TIME LoadModulesUpdates(request) 0.274 sec
+2021-05-20 01:46:37 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:37 - S - STEP
+2021-05-20 01:46:37 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:46:37 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:37 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:37 -  - loadFile
+2021-05-20 01:46:38 - U - RETURN
+2021-05-20 01:46:38 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:46:38 -  - TIME UnGzipArchive 0.096 sec
+2021-05-20 01:46:38 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464398/whatasoft.shop/updater2.2.0.php'
+2021-05-20 01:46:38 -  - TIME UpdateStepModules 0.094 sec
+2021-05-20 01:46:38 - UPD_SUCCESS - Updated: whatasoft.shop (2.2.0)<br><ul> <li>Добавлен функционал личного кабинета покупателя</li> <li>Добавлен широкий баннер для главной страницы и дополнительный вид блока статей, новостей</li> <li>Другие небольшие улучшения и исправления</li> </ul> <p><b>Внимание!</b> Перед обновлением необходимо сделать резервную копию сайта.<br> После установки обновления необходимо запустить мастер настройки.<br> После обновления необходимо очистить все файлы кеша.</p>
+2021-05-20 01:46:38 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:38 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:46:38 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.2.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:46:38 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:46:38 -  - TIME LoadModulesUpdates(request) 0.332 sec
+2021-05-20 01:46:38 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:39 - S - STEP
+2021-05-20 01:46:39 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:46:39 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:39 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:39 -  - loadFile
+2021-05-20 01:46:40 - U - RETURN
+2021-05-20 01:46:40 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:46:40 -  - TIME UnGzipArchive 0.108 sec
+2021-05-20 01:46:40 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464400/whatasoft.shop/updater2.2.1.php'
+2021-05-20 01:46:40 -  - TIME UpdateStepModules 0.104 sec
+2021-05-20 01:46:40 - UPD_SUCCESS - Updated: whatasoft.shop (2.2.1)<br><ul> <li>Поправлен компонент заказа для PHP 7</li> <li>Переделаны формы под ajax</li> <li>Исправлен вывод captcha</li> <li>Добавлены настройки для задания произвольных цветов темы</li> </ul> <p><b>Внимание!</b> Перед обновлением необходимо сделать резервную копию сайта.<br> После установки обновления необходимо запустить мастер настройки.<br> После обновления необходимо очистить все файлы кеша.</p>
+2021-05-20 01:46:41 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:41 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:46:41 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.2.1%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:46:41 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:46:41 -  - TIME LoadModulesUpdates(request) 0.274 sec
+2021-05-20 01:46:41 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:41 - S - STEP
+2021-05-20 01:46:41 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:46:41 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:41 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:41 -  - loadFile
+2021-05-20 01:46:41 - U - RETURN
+2021-05-20 01:46:41 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:46:41 -  - TIME UnGzipArchive 0.046 sec
+2021-05-20 01:46:41 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464401/whatasoft.shop/updater2.2.2.php'
+2021-05-20 01:46:42 -  - TIME UpdateStepModules 0.031 sec
+2021-05-20 01:46:42 - UPD_SUCCESS - Updated: whatasoft.shop (2.2.2)<br><ul> <li>Правки визарда</li> </ul>
+2021-05-20 01:46:42 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:42 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:46:42 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.2.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:46:42 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:46:42 -  - TIME LoadModulesUpdates(request) 0.264 sec
+2021-05-20 01:46:42 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:42 - S - STEP
+2021-05-20 01:46:42 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:46:42 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:42 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:42 -  - loadFile
+2021-05-20 01:46:43 - U - RETURN
+2021-05-20 01:46:43 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:46:43 -  - TIME UnGzipArchive 0.11 sec
+2021-05-20 01:46:43 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464403/whatasoft.shop/updater2.2.3.php'
+2021-05-20 01:46:43 -  - TIME UpdateStepModules 0.083 sec
+2021-05-20 01:46:43 - UPD_SUCCESS - Updated: whatasoft.shop (2.2.3)<br><ul> <li>Яндекс.Касса - поддержка формата API 3.</li> <li>Яндекс.Касса - поддержка ФФД 1.05.</li> <li>Справочник способов оплат для управления выводимыми способами оплат.</li> </ul> <p>Внимание! После обновления необходимо в разделе \"Контент\" > \"Highload-блоки\" > \"Способы оплаты\" (для редакций \"Старт\", \"Стандарт\") или в разделе \"Магазин\" > \"Настройки\" > \"Платежные системы\" (для редакций \"Малый бизнес\", \"Бизнес\") активировать использующиеся способы оплаты (если на сайте уже использовалась оплата через \"Яндекс.Кассу\", то нужно активировать способ оплаты с обработчиком \"Я.Касса (старый формат)\" или \"Яндекс.Касса (до версии 3.х)\").</p>
+2021-05-20 01:46:43 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:43 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:46:44 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.2.3%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:46:44 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:46:44 -  - TIME LoadModulesUpdates(request) 0.621 sec
+2021-05-20 01:46:44 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:44 - S - STEP
+2021-05-20 01:46:44 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:46:44 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:46:44 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:46:44 -  - loadFile
+2021-05-20 01:47:14 - S - RETURN
+2021-05-20 01:47:14 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:47:15 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:47:15 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:47:15 -  - loadFile
+2021-05-20 01:47:19 - U - RETURN
+2021-05-20 01:47:19 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:47:21 -  - TIME UnGzipArchive 1.648 sec
+2021-05-20 01:47:21 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464439/whatasoft.shop/updater2.2.4.php'
+2021-05-20 01:47:23 -  - TIME UpdateStepModules 1.589 sec
+2021-05-20 01:47:23 - UPD_SUCCESS - Updated: whatasoft.shop (2.2.4)<br><ul> <li>Техническое обновление</li> </ul>
+2021-05-20 01:47:23 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:47:23 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:47:23 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.2.4%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:47:23 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:47:23 -  - TIME LoadModulesUpdates(request) 0.264 sec
+2021-05-20 01:47:23 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:47:23 - S - STEP
+2021-05-20 01:47:23 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:47:23 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:47:23 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:47:23 -  - loadFile
+2021-05-20 01:47:26 - U - RETURN
+2021-05-20 01:47:26 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:47:26 -  - TIME UnGzipArchive 0.266 sec
+2021-05-20 01:47:26 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464446/whatasoft.shop/updater2.3.0.php'
+2021-05-20 01:47:26 -  - TIME UpdateStepModules 0.272 sec
+2021-05-20 01:47:26 - UPD_SUCCESS - Updated: whatasoft.shop (2.3.0)<br><ul> <li>Добавлен функционал сравнения товаров</li> <li>Добавлен раздел избранных товаров</li> <li>Добавлен функционал промокодов для корзины</li> <li>Обновлена карточка товара, добавлен новый вид карточки, добавлена форма \"Нашли дешевле\"</li> <li>Добавлен блок ранее просмотренных товаров</li> <li>Добавлен третий вид вывода списка товаров и выбор количества элементов на странице</li> <li>Обновлён раздел акций, добавлен счётчик времени до конца акции, акционные товары</li> <li>Добавлена возможность \"поделиться\" на страницах товаров, акций, новостей и т.д.</li> <li>Добавлена настройка кратности покупки товара и возможность указания единиц измерения товаров</li> <li>Другие небольшие, но приятные улучшения и исправления</li> </ul> <p><b>Внимание!</b> Перед обновлением необходимо сделать резервную копию сайта.<br> После установки обновления необходимо запустить мастер настройки.<br> После обновления необходимо очистить все файлы кеша.<br> После обновления при возникновении ситуации дублирования меню раздела необходимо в корневой директории сайта или соответствующего раздела удалить файл sect_sidebar.php, либо сделать его пустым (для многосайтовости). В меню личного кабинета необходимо вручную добавить раздел \"Избранные товары\" (favorite)</p>
+2021-05-20 01:47:26 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:47:26 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:47:26 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.0%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:47:26 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:47:27 -  - TIME LoadModulesUpdates(request) 0.267 sec
+2021-05-20 01:47:27 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:47:27 - S - STEP
+2021-05-20 01:47:27 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:47:27 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:47:27 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:47:27 -  - loadFile
+2021-05-20 01:47:27 - U - RETURN
+2021-05-20 01:47:27 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:47:27 -  - TIME UnGzipArchive 0.006 sec
+2021-05-20 01:47:27 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464447/whatasoft.shop/updater2.3.1.php'
+2021-05-20 01:47:27 -  - TIME UpdateStepModules 0.007 sec
+2021-05-20 01:47:27 - UPD_SUCCESS - Updated: whatasoft.shop (2.3.1)<br><ul> <li>Исправлено создание заказа для версий с \"Малый бизнес\" и \"Бизнес\"</li> </ul>
+2021-05-20 01:47:27 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:47:27 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:47:27 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.1%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:47:27 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:47:28 -  - TIME LoadModulesUpdates(request) 0.263 sec
+2021-05-20 01:47:28 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:47:28 - S - STEP
+2021-05-20 01:47:28 - LMU01 - LoadModulesUpdates-Step
+2021-05-20 01:47:28 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:47:28 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:47:28 -  - loadFile
+2021-05-20 01:47:28 - U - RETURN
+2021-05-20 01:47:28 -  - exec CUpdateClientPartner::UnGzipArchive
+2021-05-20 01:47:28 -  - TIME UnGzipArchive 0.022 sec
+2021-05-20 01:47:28 - CSURUS1 - Run updater '/bitrix/updates/update_m1621464448/whatasoft.shop/updater2.3.2.php'
+2021-05-20 01:47:28 -  - TIME UpdateStepModules 0.02 sec
+2021-05-20 01:47:28 - UPD_SUCCESS - Updated: whatasoft.shop (2.3.2)<br><ul> <li>Исправлено кеширование</li> <li>Поправлен js для IE 11</li> </ul>
+2021-05-20 01:47:28 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2021-05-20 01:47:28 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:47:28 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=whatasoft.shop&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:47:28 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:47:29 -  - TIME LoadModulesUpdates(request) 0.264 sec
+2021-05-20 01:47:29 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-20 01:47:29 - STEP - Finish - NOUPDATES
+2021-05-20 01:47:29 - STEP - Finish - NOUPDATES
+2021-05-20 01:47:36 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-20 01:47:36 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-20 01:47:36 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-20 01:47:36 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-20 01:47:36 -  - TIME GetUpdatesList(request) 0.251 sec
+2021-05-20 01:47:36 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-21 01:05:18 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-21 01:05:18 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-21 01:05:18 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-21 01:05:18 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-21 01:05:19 -  - TIME GetUpdatesList(request) 0.563 sec
+2021-05-21 01:05:19 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-21 01:05:35 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-21 01:05:35 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-21 01:05:35 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-21 01:05:35 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-21 01:05:35 -  - TIME GetUpdatesList(request) 0.277 sec
+2021-05-21 01:05:35 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-21 01:05:39 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-21 01:05:39 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-21 01:05:39 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-21 01:05:39 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-21 01:05:39 -  - TIME GetUpdatesList(request) 0.247 sec
+2021-05-21 01:05:39 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-21 01:05:52 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-21 01:05:52 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-21 01:05:52 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-21 01:05:52 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-21 01:05:52 -  - TIME GetUpdatesList(request) 0.273 sec
+2021-05-21 01:05:52 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-21 01:06:08 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-21 01:06:08 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-21 01:06:08 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-21 01:06:08 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-21 01:06:09 -  - TIME GetUpdatesList(request) 0.232 sec
+2021-05-21 01:06:09 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-21 01:06:18 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-21 01:06:18 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-21 01:06:18 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bwhatasoft.shop%2C2.3.2%2CY%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cwhatasoft.shop%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-21 01:06:18 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-21 01:06:19 -  - TIME GetUpdatesList(request) 0.285 sec
+2021-05-21 01:06:19 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-21 01:06:19 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-21 01:06:19 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-21 01:06:19 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-21 01:06:19 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-21 01:06:20 -  - TIME GetUpdatesList(request) 0.263 sec
+2021-05-21 01:06:20 -  - exec CUpdateClientPartner::ParseServerData
+2021-05-21 01:13:24 -  - exec CUpdateClientPartner::GetUpdatesList
+2021-05-21 01:13:24 -  - exec CUpdateClientPartner::__CollectRequestData
+2021-05-21 01:13:24 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=btrx.loc&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.1.32&NGINX=Y&dbv=5.7.26&instm=main%2C20.200.300%2CY%3Bvote%2C20.100.100%2CN%3Bui%2C20.5.887%2CN%3Blanding%2C20.4.850%2CN%3Bmobileapp%2C20.5.0%2CN%3Bform%2C20.100.0%2CN%3Bperfmon%2C20.100.0%2CN%3Bscale%2C20.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bhighloadblock%2C20.100.0%2CN%3Bsecurity%2C20.200.0%2CN%3Btranslate%2C20.100.0%2CN%3Bsocialservices%2C20.0.500%2CN%3Bphotogallery%2C20.5.0%2CN%3Bblog%2C20.100.100%2CN%3Bclouds%2C20.100.0%2CN%3Bsearch%2C20.5.0%2CN%3Biblock%2C20.0.1150%2CN%3Bforum%2C20.5.0%2CN%3Bsubscribe%2C20.5.0%2CN%3Bmessageservice%2C20.100.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bseo%2C20.0.400%2CN%3Bb24connector%2C20.5.0%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Brest%2C20.50.150%2CN%3Bfileman%2C20.5.0%2CN&reqm=bitrix.siteinfoportal%2Cbitrix.sitecorporate%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2021-05-21 01:13:24 -  - exec CUpdateClientPartner::GetHTTPPage
+2021-05-21 01:13:24 -  - TIME GetUpdatesList(request) 0.313 sec
+2021-05-21 01:13:24 -  - exec CUpdateClientPartner::ParseServerData

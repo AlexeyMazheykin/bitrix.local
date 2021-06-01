@@ -1,0 +1,1 @@
+<img alt="ООО «Название компании»" src="/whatasoft/include/logo.png" title="ООО «Название компании»">

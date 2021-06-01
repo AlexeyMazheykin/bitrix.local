@@ -1,0 +1,20 @@
+2021-05-20 01:48:28 : Import started
+2021-05-20 01:48:28 : Created iblock 'order' with id 4
+2021-05-20 01:48:28 : Property 'FIO' added.
+2021-05-20 01:48:28 : Property 'PHONE' added.
+2021-05-20 01:48:28 : Property 'EMAIL' added.
+2021-05-20 01:48:28 : Property 'COMMENT' added.
+2021-05-20 01:48:28 : Property 'DELIVERY_ADDRESS' added.
+2021-05-20 01:48:28 : Property 'DELIVERY_TYPE' added.
+2021-05-20 01:48:28 : Property 'DELIVERY_PRICE' added.
+2021-05-20 01:48:28 : Property 'PRICE' added.
+2021-05-20 01:48:28 : Property 'STATUS' added.
+2021-05-20 01:48:28 : Property 'PAYMENT_TYPE' added.
+2021-05-20 01:48:28 : Property 'ONLINE_PAYMENT' added.
+2021-05-20 01:48:28 : Property 'PAID' added.
+2021-05-20 01:48:28 : Property 'PAID_INVOICE_ID' added.
+2021-05-20 01:48:28 : Property 'COUPON_CODE' added.
+2021-05-20 01:48:28 : Element settings added.
+2021-05-20 01:48:28 : Section settings added.
+2021-05-20 01:48:28 : List settings added.
+2021-05-20 01:48:28 : Import finished
